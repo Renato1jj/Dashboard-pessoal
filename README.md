@@ -25,6 +25,9 @@ acompanhar metas e registrar anotações diárias.
 
 ## Estrutura do projeto
 
+<img width="1343" height="591" alt="image" src="https://github.com/user-attachments/assets/0f80888c-0f1a-45e1-b9a5-73977f7d6a4d" />
+
+
 ```text
 my-personal-dashboard/
 ├── index.html
