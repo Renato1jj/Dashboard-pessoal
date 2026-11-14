@@ -16,7 +16,7 @@ acompanhar metas e registrar anotações diárias.
 - [ ] Criar metas personalizadas
 - [ ] Adicionar gráficos de produtividade
 
-## Tecnologias Usadas
+## Tecnologias
 
 - HTML5
 - CSS3
