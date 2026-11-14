@@ -1,6 +1,8 @@
+
 # Dashboard Pessoal
 
-Um dashboard pessoal desenvolvido para organizar tarefas, acompanhar metas e registrar anotações diárias.
+Um dashboard pessoal desenvolvido para organizar tarefas,
+acompanhar metas e registrar anotações diárias.
 
 ## Funcionalidades
 
@@ -31,32 +33,16 @@ my-personal-dashboard/
 ├── js/
 │   └── script.js
 ├── assets/
-│   └── images/
 ├── README.md
 └── .gitignore
 ```
 
 ## Como executar
 
-1. Clone este repositório:
-
-   ```bash
-   git clone URL_DO_SEU_REPOSITORIO
-   ```
-
-2. Acesse a pasta do projeto:
-
-   ```bash
-   cd my-personal-dashboard
-   ```
-
-3. Abra o arquivo `index.html` no navegador.
+1. Clone este repositório.
+2. Abra a pasta do projeto (https://github.com/Renato1jj/Dashboard-pessoal/tree/main/C%C3%B3digos%20).
+3. Execute o arquivo index.html no navegador.
 
 ## Objetivo
 
 Este projeto foi desenvolvido com o objetivo de praticar desenvolvimento web, lógica de programação e utilização do Git e GitHub.
-
-## Autor
-
-Desenvolvido por Seu Nome.
-
